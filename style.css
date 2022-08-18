@@ -1,0 +1,32 @@
+/* CSS Document */
+
+body {background-color: #F4F4F4; color:#555555;
+font-family: Ariel,
+	Helvetica, sans-serif;
+font-size: 12px;
+font-weight: bold;
+font-height: 1.6;
+margin:0}
+
+H1{color: red;
+ }
+
+.box-1 {background-color: #333;
+	color:#fff;
+/*border-right:5px blue solid;
+border-left: 5px blue solid;
+border-top: 5px blue solid;
+	border-bottom: 5px blue solid;
+	*/
+	border: 5px red solid;
+	border-width: 3px;
+	border-bottom-width: 10px;
+	border-top-style: dotted;
+border:5px red solid;
+padding:20px;
+margin: 20px 0;}
+
+.container{
+	width: 80%;
+margin: auto;
+}
